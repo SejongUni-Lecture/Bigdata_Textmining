@@ -1,2 +1,3 @@
-# BigData_Textmining
-text mining lecture assignment repository 
+Bigdata_Textmining
+==================
+
