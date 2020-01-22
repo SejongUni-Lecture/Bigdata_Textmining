@@ -3,5 +3,5 @@ This repository is for **Bigdata and Textmining** lecture related material and a
 I've not uploaded lecture materials due to copyright issues.  
 
 ---
-# Summary
+## Summary
 Basic R programming
